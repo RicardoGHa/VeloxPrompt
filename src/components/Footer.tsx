@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
       <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
         <div className="flex flex-wrap justify-between">
           <div className="w-full lg:w-1/3 mb-8 lg:mb-0">
-            <span className="text-2xl font-bold text-indigo-600 dark:text-indigo-400">PromptPro</span>
+            <span className="text-2xl font-bold text-indigo-600 dark:text-indigo-400">VeloxPrompt 🚀</span>
             <p className="mt-2 text-sm text-gray-500 dark:text-gray-400">
               Elevate your AI interactions with our advanced prompt generation tool.
             </p>
@@ -40,7 +40,7 @@ const Footer: React.FC = () => {
             {/* Add social media icons here */}
           </div>
           <p className="mt-8 text-base text-gray-400 md:mt-0 md:order-1">
-            &copy; 2024 PromptPro. All rights reserved.
+            &copy; 2024 VeloxPrompt. All rights reserved.
           </p>
         </div>
       </div>
